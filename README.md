@@ -20,4 +20,4 @@ Use o conhecimento adquirido nesse módulo para construir um projeto utilizando 
 <h1 align="center">
    <img src="https://github.com/wesleyorrr/Desafio_de_Projeto/blob/master/img01.jpg" height="425" />
     <img src="https://github.com/wesleyorrr/Desafio_de_Projeto/blob/master/img00.jpg" height="425" />
-       />
+
